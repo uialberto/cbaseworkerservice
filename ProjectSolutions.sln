@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32804.467
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentacion", "Presentacion", "{2F3C8494-E97F-4271-BC63-23431C732583}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaseWorkService", "BaseWorkService\BaseWorkService.csproj", "{9AF78A99-298B-4EEA-857F-532742929661}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9AF78A99-298B-4EEA-857F-532742929661}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AF78A99-298B-4EEA-857F-532742929661}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AF78A99-298B-4EEA-857F-532742929661}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AF78A99-298B-4EEA-857F-532742929661}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{9AF78A99-298B-4EEA-857F-532742929661} = {2F3C8494-E97F-4271-BC63-23431C732583}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E491A0DF-2CFF-4F1B-96E5-B6BBC2DA693F}
+	EndGlobalSection
+EndGlobal
